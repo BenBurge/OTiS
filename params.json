@@ -1,0 +1,6 @@
+{
+  "name": "OTiS",
+  "tagline": "Offline Ticket System",
+  "body": "### OTiS.\r\nThis is a simple offline ticket system (Or just a glorified notepad). It allows you to create tickets for when your normal network based ticket system is offline.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
